@@ -1,0 +1,57 @@
+###################
+# 2345 BLOCKER HOSTS #
+###################
+
+# License: CC-BY-SA-4.0
+# Author: Session小胡(SessionHu)
+# Last Update: 15 Jul , 2023
+
+# 2345 Main Start
+0.0.0.0 2345.com
+0.0.0.0 www.2345.com
+0.0.0.0 m.2345.com
+0.0.0.0 gaoji.2345.com
+0.0.0.0 2345.net
+0.0.0.0 www.2345.net
+0.0.0.0 tianqi.2345.com
+0.0.0.0 waptianqi.2345.com
+0.0.0.0 2345tianqi.cn
+0.0.0.0 app.2345tianqi.cn
+0.0.0.0 tools.2345.com
+0.0.0.0 2345.cc
+0.0.0.0 www.2345.cc
+0.0.0.0 v.2345.com
+0.0.0.0 huodong.2345.com
+# 2345 Main End
+
+# 2345 CDN Start
+0.0.0.0 cdn.2345mbrowser.com
+0.0.0.0 zhushou.2345cdn.net
+# 2345 CDN End
+
+# 2345 Family Start
+0.0.0.0 app.2345.com
+0.0.0.0 ie.2345.cc
+0.0.0.0 safe.2345.cc
+0.0.0.0 jifen.2345.com
+0.0.0.0 haozip.2345.com
+0.0.0.0 pdfcvt.2345.cc
+0.0.0.0 pinyin.2345.cc
+0.0.0.0 zs.yes115.com
+# 2345 Family End
+
+# Keanaoft Start
+0.0.0.0 qnchrome.com
+0.0.0.0 www.qnchrome.com
+0.0.0.0 keansoft.cn
+0.0.0.0 www.keansoft.cn
+0.0.0.0 qnwallpaper.keansoft.cn
+0.0.0.0 record.keansoft.cn
+# Keansoft End
+
+# 9991 Start
+0.0.0.0 9991.com
+0.0.0.0 www.9991.com
+0.0.0.0 www9991.com
+0.0.0.0 www.www9991.com
+# 9991 End
