@@ -1,2 +1,5 @@
-# 2345-blocker-hosts
-Block 2345.com with HOSTS file. 
+# 2345 BLOCKER HOSTS
+- 使用`HOSTS`文件阻止对`2345.com`及其附属网站的访问，以保护您和您的家人的设备免受其的困扰。
+
+## 原理
+- 通过`hosts`文件，跳过DNS服务器，将2345的网站解析至`0.0.0.0`以无法访问。
