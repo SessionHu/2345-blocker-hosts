@@ -10,7 +10,10 @@
 0.0.0.0 2345.com
 0.0.0.0 www.2345.com
 0.0.0.0 m.2345.com
+0.0.0.0 ie.2345.com
+0.0.0.0 kan.2345.com
 0.0.0.0 gaoji.2345.com
+0.0.0.0 passport.2345.com
 0.0.0.0 2345.net
 0.0.0.0 www.2345.net
 0.0.0.0 tianqi.2345.com
@@ -21,12 +24,20 @@
 0.0.0.0 2345.cc
 0.0.0.0 www.2345.cc
 0.0.0.0 v.2345.com
+0.0.0.0 tv.2345.com
 0.0.0.0 huodong.2345.com
+0.0.0.0 2345.cn
+0.0.0.0 www.2345.cn
+0.0.0.0 wan.2345.com
+0.0.0.0 youxi.2345.com
+0.0.0.0 news.2345.com
 # 2345 Main End
 
 # 2345 CDN Start
 0.0.0.0 cdn.2345mbrowser.com
+0.0.0.0 2345cdn.net
 0.0.0.0 zhushou.2345cdn.net
+0.0.0.0 www-stream.2345cdn.net
 # 2345 CDN End
 
 # 2345 Family Start
@@ -37,7 +48,12 @@
 0.0.0.0 haozip.2345.com
 0.0.0.0 pdfcvt.2345.cc
 0.0.0.0 pinyin.2345.cc
+0.0.0.0 yes115.com
 0.0.0.0 zs.yes115.com
+0.0.0.0 www.yes115.com
+0.0.0.0 download.2345.cn
+0.0.0.0 2345mbrowser.com
+0.0.0.0 www.2345mbrowser.com
 # 2345 Family End
 
 # Keanaoft Start
