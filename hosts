@@ -63,6 +63,9 @@
 0.0.0.0 2345mbrowser.com
 0.0.0.0 www.2345mbrowser.com
 0.0.0.0 dl.2345.cc
+0.0.0.0 ruanjian.2345.cc
+0.0.0.0 pic.2345.cc
+0.0.0.0 zs.2345.com
 # 2345 Family End
 
 # Keanaoft Start
@@ -81,3 +84,8 @@
 0.0.0.0 www9991.com
 0.0.0.0 www.www9991.com
 # 9991 End
+
+# Other Start
+0.0.0.0 2345.zhiye.com
+0.0.0.0 2345.m.zhiye.com
+# Other End
