@@ -4,7 +4,7 @@
 
 # License:     CC-BY-SA-4.0
 # Author:      Session小胡(SessionHu)
-# Last Update: 15 Jul, 2023
+# Last Update: Aug 7, 2023
 
 # 2345 Main Start
 0.0.0.0 2345.com
@@ -36,6 +36,9 @@
 0.0.0.0 news.2345.com
 0.0.0.0 game.2345.com
 0.0.0.0 xiaoyouxi.2345.com
+0.0.0.0 to128.com
+0.0.0.0 wapamy.to128.com
+0.0.0.0 www.to128.com
 # 2345 Main End
 
 # 2345 CDN Start
