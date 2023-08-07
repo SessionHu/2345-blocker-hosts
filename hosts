@@ -10,10 +10,11 @@
 0.0.0.0 2345.com
 0.0.0.0 www.2345.com
 0.0.0.0 m.2345.com
-0.0.0.0 ie.2345.com
 0.0.0.0 kan.2345.com
 0.0.0.0 gaoji.2345.com
 0.0.0.0 passport.2345.com
+0.0.0.0 2345.com.cn
+0.0.0.0 www.2345.com.cn
 0.0.0.0 2345.net
 0.0.0.0 www.2345.net
 0.0.0.0 tianqi.2345.com
@@ -60,11 +61,14 @@
 # 2345 Family Start
 0.0.0.0 app.2345.com
 0.0.0.0 ie.2345.cc
+0.0.0.0 ie.2345.com
 0.0.0.0 safe.2345.cc
+0.0.0.0 safe.2345.com
 0.0.0.0 jifen.2345.com
 0.0.0.0 haozip.2345.com
 0.0.0.0 pdfcvt.2345.cc
 0.0.0.0 pinyin.2345.cc
+0.0.0.0 pinyin.2345.com
 0.0.0.0 yes115.com
 0.0.0.0 zs.yes115.com
 0.0.0.0 www.yes115.com
@@ -72,7 +76,9 @@
 0.0.0.0 2345mbrowser.com
 0.0.0.0 www.2345mbrowser.com
 0.0.0.0 dl.2345.cc
+0.0.0.0 dl.2345.com
 0.0.0.0 ruanjian.2345.cc
+0.0.0.0 ruanjian.2345.com
 0.0.0.0 pic.2345.cc
 0.0.0.0 zs.2345.com
 0.0.0.0 download-ruanjian.2345.cc
